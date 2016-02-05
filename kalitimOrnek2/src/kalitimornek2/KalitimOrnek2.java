@@ -69,7 +69,7 @@ public class KalitimOrnek2 {
         mybox=kutu1;
         vol=mybox.hacim();
         System.out.println("mybox'un hacmi: " +vol);
-        System.out.println("mybox'un ağırlığı: " +mybox.agirlik);
+        //System.out.println("mybox'un ağırlığı: " +mybox.agirlik);
         //agirlik ozelliği alt sınıfın özelliği olduğu için alt sınıftan üst sınıf ozelliği kullanılamıyor.
     }    
 }

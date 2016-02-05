@@ -15,7 +15,7 @@ class Box
     
     double hacim(double width, double height,double depth)
     {
-        System.out.println("Kutunun Hacmi"+vol);
+        //System.out.println("Kutunun Hacmi"+vol);
         return width*depth*height;
     }
 }
